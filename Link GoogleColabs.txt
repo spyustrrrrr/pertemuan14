@@ -1,0 +1,3 @@
+Link Colabs:
+1) CrossValidation => https://colab.research.google.com/drive/1om9nAslHhBz6KDZUb8B-gijKx8kc6geK?authuser=2
+2) Akurasi => https://colab.research.google.com/drive/1q__mjSnLSPmK9NsDxwCu1dUwRKL6AoDZ?authuser=2
